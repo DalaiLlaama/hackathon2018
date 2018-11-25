@@ -1,0 +1,6 @@
+io\nuls\contract\token\ReitDaoToken.class
+io\nuls\contract\token\Token$ApprovalEvent.class
+io\nuls\contract\token\ReitDaoToken$SoldEvent.class
+io\nuls\contract\token\SimpleToken.class
+io\nuls\contract\token\Token.class
+io\nuls\contract\token\Token$TransferEvent.class
